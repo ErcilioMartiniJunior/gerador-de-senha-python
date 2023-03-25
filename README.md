@@ -14,9 +14,11 @@
 
 <h2>Resultado final:</h2>
 
+<p align="center">
 <img width="366" alt="Captura de Tela 2023-03-24 às 15 47 40" src="https://user-images.githubusercontent.com/116317572/227625439-9ab2af92-fd94-4195-8a2c-4d30044eab06.png">
 
 <img width="366" alt="Captura de Tela 2023-03-24 às 15 48 11" src="https://user-images.githubusercontent.com/116317572/227625454-b790bc72-3170-4828-9ca6-41aa577857f6.png">
+</p>
 
 <h2>Autor</h2>
 <h3>Ercilio martini Junior</h3>
